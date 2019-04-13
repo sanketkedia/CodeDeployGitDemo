@@ -1,7 +1,2 @@
 version: 0.0
 os: linux
-files:
-  - source: ./index.html
-    destination: /var/www/medpass.com/public_html
-  - source: ./temp.txt
-    destination: /var/www/medpass.com/public_html
